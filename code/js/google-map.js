@@ -54,7 +54,7 @@ function init() {
         new google.maps.Marker({
           position: latlng,
           map: map,
-          icon: "images/loc.png",
+          icon: "data/images/loc.png",
         });
       }
     );
