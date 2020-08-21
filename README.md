@@ -1,2 +1,2 @@
 # client-website
-WebSite for my Minecraft Client
+Website for my Minecraft Client, template by ColorLib
