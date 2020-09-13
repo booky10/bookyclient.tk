@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80de3f94-b0cc-420e-a99d-6000e195ba58" name="Default Changelist" comment="repaired v2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8.0_201" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gHnRlrEZe7DmXMXM2PiEozf4Kz" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/.android-sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/de/features" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/de/features" />
+      <recent name="$PROJECT_DIR$/en/features" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/code/images/good" />
+      <recent name="$PROJECT_DIR$/code/images/screenshots" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/code/images/logo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80de3f94-b0cc-420e-a99d-6000e195ba58" name="Default Changelist" comment="" />
+      <created>1597780379355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597780379355</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1597780412114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597780412114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="other updates, now icon and better images">
+      <created>1598015065779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598015065779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="big chances, moved some folders">
+      <created>1598019196143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598019196143</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final chances, basic website should be done now">
+      <created>1598027527272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598027527272</updated>
+    </task>
+    <task id="LOCAL-00005" summary="forgot to add download page...">
+      <created>1598027647265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598027647265</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some fixes &amp; title change">
+      <created>1598032787843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598032787843</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new file name">
+      <created>1598033199131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598033199131</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Testing out, if .htaccess works on github">
+      <created>1598787099490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598787099490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Well, it didn't work">
+      <created>1598787313313</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598787313313</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added English version">
+      <created>1598788017590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598788017590</updated>
+    </task>
+    <task id="LOCAL-00011" summary="what, github broken now?">
+      <created>1598788089354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598788089354</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Improved *Everything*">
+      <created>1600006638332</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600006638332</updated>
+    </task>
+    <task id="LOCAL-00013" summary="repaired">
+      <created>1600020618323</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600020618323</updated>
+    </task>
+    <task id="LOCAL-00014" summary="repaired v2">
+      <created>1600020705075</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600020705076</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="updates" />
+    <MESSAGE value="other updates, now icon and better images" />
+    <MESSAGE value="big chances, moved some folders" />
+    <MESSAGE value="Final chances, basic website should be done now" />
+    <MESSAGE value="forgot to add download page..." />
+    <MESSAGE value="some fixes &amp; title change" />
+    <MESSAGE value="new file name" />
+    <MESSAGE value="Testing out, if .htaccess works on github" />
+    <MESSAGE value="Well, it didn't work" />
+    <MESSAGE value="Added English version" />
+    <MESSAGE value="what, github broken now?" />
+    <MESSAGE value="Improved *Everything*" />
+    <MESSAGE value="repaired" />
+    <MESSAGE value="repaired v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="repaired v2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2631" y="407" width="494" height="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598027809861">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2631" y="407" width="494" height="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598027809861" />
+    <state x="2017" y="100" width="1726" height="883" key="DiffContextDialog" timestamp="1600020900960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2017" y="100" width="1726" height="883" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600020900960" />
+    <state x="2641" y="299" key="FileChooserDialogImpl" timestamp="1598017626766">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2641" y="299" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598017626766" />
+    <state x="0" y="0" width="1920" height="1080" key="MergeDialog" timestamp="1600006192703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="MergeDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600006192703" />
+    <state x="2505" y="303" width="746" height="479" key="MultipleFileMergeDialog" timestamp="1600006651730">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2505" y="303" width="746" height="479" key="MultipleFileMergeDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600006651730" />
+    <state x="2475" y="277" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1600020706134">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="277" width="806" height="530" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600020706134" />
+    <state x="2639" y="455" width="477" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598784013393">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2639" y="455" width="477" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598784013393" />
+    <state x="2564" y="260" width="631" height="562" key="find.popup" timestamp="1598784239351">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2564" y="260" width="631" height="562" key="find.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598784239351" />
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1598018269236">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1598018269236" />
+  </component>
+</project>
