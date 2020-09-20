@@ -1,8 +1,8 @@
-1.6-BETA:mgscloud.net/index.php/s/ixbYqf2BKNKH5Mp/download
-1.5-BETA:NaN
-1.4b-BETA:NaN
-1.4-BETA:NaN
-1.3-BETA:NaN
-1.2-BETA:NaN
-1.1-BETA:NaN
-1.0-BETA:NaN
+1.6-BETA;https://mgscloud.net/index.php/s/ixbYqf2BKNKH5Mp/download
+1.5-BETA;NaN
+1.4b-BETA;NaN
+1.4-BETA;NaN
+1.3-BETA;NaN
+1.2-BETA;NaN
+1.1-BETA;NaN
+1.0-BETA;NaN
