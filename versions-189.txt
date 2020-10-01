@@ -1,5 +1,5 @@
-1.7-BETA;NaN
-1.6-BETA;NaN
+1.7-BETA;https://mgscloud.net/index.php/s/RkHQLaErgK3drAg
+1.6-BETA;https://mgscloud.net/index.php/s/G9THMjcQ38jF5pn/download
 1.5-BETA;NaN
 1.4b-BETA;NaN
 1.4-BETA;NaN
