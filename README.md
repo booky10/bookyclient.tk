@@ -1,2 +1,3 @@
 # website
-Website for the bookyClient, template by ColorLib
+
+Website for the bookyClient

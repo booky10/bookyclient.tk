@@ -1,86 +1,463 @@
 <!DOCTYPE html>
-<html lang="de">
-<head>
-    <title>bookyClient</title>
-    <link rel="shortcut icon" href="code/images/logo/logo-round.png"/>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="booky10" />
+    <title>bookyClient - Home</title>
+    <link rel="shortcut icon" href="assets/img/logo.png" />
 
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,700,800" rel="stylesheet"/>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"
+      crossorigin="anonymous"
+    ></script>
 
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/open-iconic-bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/animate.css"/>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/heading.css" />
+    <link rel="stylesheet" href="css/body.css" />
+    <link rel="stylesheet" href="css/custom.css" />
+  </head>
 
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/owl.carousel.min.css"/>
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/owl.theme.default.min.css"/>
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/magnific-popup.css"/>
+  <body id="page-top">
+    <nav class="navbar navbar-expand-lg bg-secondary fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+          BOOKYCLIENT
+        </a>
+        <button
+          class="navbar-toggler navbar-toggler-right font-weight-bold bg-primary text-white rounded"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarResponsive"
+          aria-controls="navbarResponsive"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          Menu <em class="fas fa-bars"></em>
+        </button>
 
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/aos.css"/>
-
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/ionicons.min.css"/>
-
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/bootstrap-datepicker.css"/>
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/jquery.timepicker.css"/>
-
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/flaticon.css"/>
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/icomoon.css"/>
-    <link rel="stylesheet" href="https://bookyclient.tk/code/css/style.css"/>
-</head>
-<body>
-
-<section class="home-slider ftco-degree-bg">
-    <div class="slider-item">
-        <div class="overlay"></div>
-        <div class="container">
-            <div class="row slider-text align-items-center justify-content-center">
-                <div class="col-md-10 ftco-animate text-center">
-                    <h1><strong>&raquo;<a href="de">Deutsch</a>&laquo; &#x2008; &#x2008; &#x2008; &#x2008; &raquo;<a href="en">English</a>&laquo;</strong></h1>
-                </div>
-            </div>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item mx-0 mx-lg-1">
+              <a
+                class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
+                href="downloads"
+              >
+                Downloads
+              </a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a
+                class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
+                href="#portfolio"
+              >
+                Screenshots
+              </a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a
+                class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger lang-de"
+                href="#about"
+              >
+                &Uuml;ber
+              </a>
+              <a
+                class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger lang-en"
+                href="#about"
+              >
+                About
+              </a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a
+                class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger lang-de"
+                href="#contact"
+              >
+                Kontakt
+              </a>
+              <a
+                class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger lang-en"
+                href="#contact"
+              >
+                Contact
+              </a>
+            </li>
+          </ul>
         </div>
+      </div>
+    </nav>
+
+    <header class="masthead text-white text-center">
+      <div class="container d-flex align-items-center flex-column">
+        <img
+          id="logo"
+          class="masthead-avatar mb-5"
+          src="assets/img/logo.svg"
+          alt=""
+        />
+
+        <h1 class="masthead-heading mb-0">bookyClient</h1>
+
+        <div class="divider-custom divider-light">
+          <div class="divider-custom-line"></div>
+          <div class="divider-custom-icon"><em class="fas fa-star"></em></div>
+          <div class="divider-custom-line"></div>
+        </div>
+
+        <p class="pre-wrap masthead-subheading font-weight-light mb-0 lang-de">Ein Minecraft PvP Client f&uuml;r die 1.8.9<br />&#8205;</p>
+        <p class="pre-wrap masthead-subheading font-weight-light mb-0 lang-en">A Minecraft PvP Client for the 1.8.9<br />&#8205;</p>
+
+        <a
+          role="button"
+          class="btn btn-secondary pre-wrap masthead-subheading font-weight-light mb-6 font-weight-bold"
+          href="downloads"
+          >DOWNLOADS</a>
+
+        <h1 class="noselect">&#8205;</h1>
+
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle font-weight-bold lang-de" type="button" data-toggle="dropdown">
+            SPRACHE
+            <span class="caret"></span>
+          </button>
+          <button class="btn btn-secondary dropdown-toggle font-weight-bold lang-en" type="button" data-toggle="dropdown">
+            LANGUAGE
+            <span class="caret"></span>
+          </button>
+
+          <ul class="dropdown-menu bg-dark text-center">
+            <li class="lang-de"><a style="text-decoration: none;" href="#" onclick="setLanguage('de');">Deutsch</a></li>
+            <li class="lang-de"><a style="text-decoration: none;" href="#" onclick="setLanguage('en');">Englisch</a></li>
+            <li class="lang-en"><a style="text-decoration: none;" href="#" onclick="setLanguage('de');">German</a></li>
+            <li class="lang-en"><a style="text-decoration: none;" href="#" onclick="setLanguage('en');">English</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <section class="page-section portfolio bg-dark text-white" id="portfolio">
+      <div class="container">
+        <div class="text-center">
+          <h2 class="page-section-heading mb-0 d-inline-block">Screenshots</h2>
+        </div>
+
+        <div class="divider-custom divider-light">
+          <div class="divider-custom-line"></div>
+          <div class="divider-custom-icon"><em class="fas fa-star"></em></div>
+          <div class="divider-custom-line"></div>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-toggle="modal"
+              data-target="#portfolioModal0"
+            >
+              <div
+                class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                  <em class="fas fa-plus fa-3x"></em>
+                </div>
+              </div>
+              <img
+                class="img-fluid lang-de"
+                src="assets/img/portfolio/de/main_menu.png"
+                alt="Haupt Men&uuml;"
+              />
+              <img
+                class="img-fluid lang-en"
+                src="assets/img/portfolio/en/main_menu.png"
+                alt="The main menu"
+              />
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-5">
+            <div
+              class="portfolio-item mx-auto"
+              data-toggle="modal"
+              data-target="#portfolioModal1"
+            >
+              <div
+                class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"
+              >
+                <div
+                  class="portfolio-item-caption-content text-center text-white"
+                >
+                  <em class="fas fa-plus fa-3x"></em>
+                </div>
+              </div>
+              <img
+                class="img-fluid lang-de"
+                src="assets/img/portfolio/de/settings.png"
+                alt="Die Einstellungen"
+              />
+              <img
+                class="img-fluid lang-en"
+                src="assets/img/portfolio/en/settings.png"
+                alt="The settings"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div
+      class="portfolio-modal modal fade"
+      id="portfolioModal0"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="#portfolioModal0Label"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+          <button
+            class="close lang-de"
+            type="button"
+            data-dismiss="modal"
+            aria-label="Schlie&szlig;en"
+          >
+          <button
+            class="close lang-en"
+            type="button"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true"><em class="fas fa-times"></em></span>
+          </button>
+          <div class="modal-body text-center bg-dark text-white">
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-lg-8">
+                  <h2 class="portfolio-modal-title mb-0 lang-de">Haupt Men&uuml;</h2>
+                  <h2 class="portfolio-modal-title mb-0 lang-en">The main menu</h2>
+
+                  <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon">
+                      <em class="fas fa-star"></em>
+                    </div>
+                    <div class="divider-custom-line"></div>
+                  </div>
+
+                  <img
+                    class="img-fluid rounded mb-5 lang-de"
+                    src="assets/img/portfolio/de/main_menu.png"
+                    alt="Haupt Men&uuml;"
+                  />
+
+                  <img
+                    class="img-fluid rounded mb-5 lang-en"
+                    src="assets/img/portfolio/en/main_menu.png"
+                    alt="The main menu"
+                  />
+
+                  <p class="mb-5 lang-de">Das Haupt Men&uuml; vom Client, sehr im Vanilla Style gehalten, so wieder Rest vom Client auch.</p>
+                  <p class="mb-5 lang-en">The main menu of the client. It is not much changed from the vanilla version, like the other parts of the client.</p>
+                  <button class="btn btn-primary lang-de" href="#" data-dismiss="modal">
+                    <em class="fas fa-times fa-fw"></em>Fenster Schlie&szlig;en
+                  </button>
+                  <button class="btn btn-primary lang-en" href="#" data-dismiss="modal">
+                    <em class="fas fa-times fa-fw"></em>Close window
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-</section>
-<!-- END slider -->
+    <div
+      class="portfolio-modal modal fade"
+      id="portfolioModal1"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="#portfolioModal1Label"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+          <button
+            class="close lang-de"
+            type="button"
+            data-dismiss="modal"
+            aria-label="Schlie&szlig;en"
+          >
+          <button
+            class="close lang-en"
+            type="button"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true"><em class="fas fa-times"></em></span>
+          </button>
+          <div class="modal-body text-center bg-dark text-white">
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-lg-8">
+                  <h2 class="portfolio-modal-title mb-0 lang-de">Die Einstellungen</h2>
+                  <h2 class="portfolio-modal-title mb-0 lang-en">The settings</h2>
 
-<footer class="ftco-footer ftco-bg-dark ftco-section">
-    <div class="col-md-12 text-center">
-        <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;
-            <script>document.write(new Date().getFullYear());</script>
-            All rights reserved | This template is made with
-            <i class="icon-heart" aria-hidden="true"></i> by
-            <a href="https://colorlib.com" target="_blank">Colorlib</a><br>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                  <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon">
+                      <em class="fas fa-star"></em>
+                    </div>
+                    <div class="divider-custom-line"></div>
+                  </div>
+                  <img
+                    class="img-fluid rounded mb-5 lang-de"
+                    src="assets/img/portfolio/de/settings.png"
+                    alt="Die Einstellungen"
+                  />
+                  <img
+                    class="img-fluid rounded mb-5 lang-en"
+                    src="assets/img/portfolio/en/settings.png"
+                    alt="The settings"
+                  />
 
-            Icons made by <a href="https://www.flaticon.com/free-icon/sunglasses_963040" title="surang">surang</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-        </p>
+                  <p class="mb-5 lang-de">Das Haupt-Men&uuml; der Einstellungen vom Client. Wie alles andere, im Vanilla Style gehalten.</p>
+                  <p class="mb-5 lang-en">The main window of the settings. It is like the main menu too not much changed from a vanilla gui.</p>
+                  <button class="btn btn-primary lang-de" href="#" data-dismiss="modal">
+                    <em class="fas fa-times fa-fw"></em>Fester schlie&szlig;en
+                  </button>
+                  <button class="btn btn-primary lang-en" href="#" data-dismiss="modal">
+                    <em class="fas fa-times fa-fw"></em>Close window
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-</footer>
 
-<!-- loader -->
-<div id="ftco-loader" class="show fullscreen">
-    <svg class="circular" width="48px" height="48px">
-        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
-        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/>
-    </svg>
-</div>
+    <section class="page-section bg-primary text-white mb-0" id="about">
+      <div class="container">
+        <div class="text-center lang-de">
+          <h2 class="page-section-heading d-inline-block text-white">
+            &Uuml;ber
+          </h2>
+        </div>
+        <div class="text-center lang-en">
+          <h2 class="page-section-heading d-inline-block text-white">
+            About
+          </h2>
+        </div>
 
-<script src="https://bookyclient.tk/code/js/jquery.min.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery-migrate-3.0.1.min.js"></script>
-<script src="https://bookyclient.tk/code/js/popper.min.js"></script>
-<script src="https://bookyclient.tk/code/js/bootstrap.min.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery.easing.1.3.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery.waypoints.min.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery.stellar.min.js"></script>
-<script src="https://bookyclient.tk/code/js/owl.carousel.min.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery.magnific-popup.min.js"></script>
-<script src="https://bookyclient.tk/code/js/aos.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery.animateNumber.min.js"></script>
-<script src="https://bookyclient.tk/code/js/bootstrap-datepicker.js"></script>
-<script src="https://bookyclient.tk/code/js/jquery.timepicker.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-<script src="https://bookyclient.tk/code/js/google-map.js"></script>
-<script src="https://bookyclient.tk/code/js/main.js"></script>
-</body>
+        <div class="divider-custom divider-light">
+          <div class="divider-custom-line"></div>
+          <div class="divider-custom-icon"><em class="fas fa-star"></em></div>
+          <div class="divider-custom-line"></div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="pre-wrap lead lang-de">Der bookyClient ist ein 1.8.9 Minecraft PvP Client, welcher sehr im Vanilla Style gehalten ist. Er hat Keystrokes, Kosmetiks und viele weitere Optionen.</p>
+            <p class="pre-wrap lead lang-en">The bookyClient is a 1.8.9 Minecraft PvP client. It mostly looks like vanilla, but it also has Keystrokes, Cosmetics and many other options you can explore.</p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="pre-wrap lead lang-de">Au&szlig;erdem haben wir einen Discord, wo jede neue Version angek&uuml;ndigt wird. Dort k&ouml;nnen auch Fragen gestellt werden.</p>
+            <p class="pre-wrap lead lang-en">Also, the client has a discord, where every new version of it will be announced. You can also ask questions there.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="page-section bg-dark text-white" id="contact">
+      <div class="container">
+        <div class="text-center lang-de">
+          <h2 class="page-section-heading d-inline-block mb-0">Kontakt</h2>
+        </div>
+        <div class="text-center lang-en">
+          <h2 class="page-section-heading d-inline-block mb-0">Contact</h2>
+        </div>
+
+        <div class="divider-custom divider-light">
+          <div class="divider-custom-line"></div>
+          <div class="divider-custom-icon"><em class="fas fa-star"></em></div>
+          <div class="divider-custom-line"></div>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-lg-4">
+            <div class="d-flex flex-column align-items-center">
+              <div class="icon-contact mb-3">
+                <em class="fab fa-discord"></em>
+              </div>
+              <div>Discord</div>
+              <div class="lead font-weight-bold">
+                <a
+                  class="lead font-weight-bold"
+                  href="https://discord.gg/MesHjEr"
+                  >
+                  discord/MesHjEr
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="d-flex flex-column align-items-center">
+              <div class="icon-contact mb-3">
+                <em class="far fa-envelope"></em>
+              </div>
+              <div class="lang-de">E-Mail</div>
+              <div class="lang-en">Email</div>
+              <a
+                class="lead font-weight-bold lang-de"
+                href="mailto:kontakt@bookyclient.tk"
+                >
+                kontakt@bookyclient.tk
+              </a>
+              <a
+                class="lead font-weight-bold lang-en"
+                href="mailto:contact@bookyclient.tk"
+                >
+                contact@bookyclient.tk
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="copyright py-4 text-center text-white">
+      <div class="container">
+        <small class="pre-wrap lead noselect">
+          <script>
+            document.write("&copy; bookyClient " + new Date().getFullYear());
+          </script>
+        </small>
+      </div>
+    </section>
+
+    <div class="scroll-to-top d-lg-none position-fixed">
+      <a
+        class="js-scroll-trigger d-block text-center text-white rounded"
+        href="#page-top"
+      >
+        <em class="fa fa-chevron-up"></em>
+      </a>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+
+    <script src="js/scripts.js"></script>
+    <script src="js/lang.js"></script>
+
+    <script>
+      refreshLanguageText();
+    </script>
+  </body>
 </html>
