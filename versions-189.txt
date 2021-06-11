@@ -1,5 +1,5 @@
-1.7-BETA;https://mgscloud.net/index.php/s/r2f2GE5ab464qdT/download
-1.6-BETA;https://mgscloud.net/index.php/s/G9THMjcQ38jF5pn/download
+1.7-BETA;https://dubhe.workupload.com/download/T7tqfHHgdKd
+1.6-BETA;https://dubhe.workupload.com/download/Wjkza7QsNaA
 1.5-BETA;NaN
 1.4b-BETA;NaN
 1.4-BETA;NaN
